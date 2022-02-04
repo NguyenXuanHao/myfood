@@ -1,0 +1,18 @@
+@media (max-width:740px) {
+    .food-item{
+        width: 100%;
+    }
+    .about-img {
+        width: 330px;
+        height: 230px;
+    }
+    .footer-item {
+        width: 100%;
+    }
+    .footer {
+        display: block;
+    }
+    .footer-item-2{
+        padding: 24px 0;
+    }
+}
